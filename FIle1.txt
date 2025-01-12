@@ -4,3 +4,4 @@ import matplotlib as plt
 
 #code tambahan main
 #add
+#adding code in monday
